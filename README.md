@@ -5,5 +5,5 @@
 <div align="center">
   <img src="ImageTest.png" width="100%" height="100%">
   <video width="320" height="240" controls>
-    <source src="MD AI.mp4" type="video/mp4">
+    <source src="AI.mp4" type="video/mp4">
   </video>
