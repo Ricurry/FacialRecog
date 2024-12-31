@@ -12,23 +12,7 @@ from keras.models import load_model
 #GlobalAveragePooling2D
 from keras.layers import GlobalAveragePooling2D
 
-# YOU WILL DESERVE LOVE ONLY THROUGH YOUR WORK. NOTHING ELSE.
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# REMEMBER ZIA
-# TRUST YOURSELF
-# TRUST NOBODY
-# WORK HARD
-# WORK SMART
+
 print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
 # Use NVIDIA CUDA GPU
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
